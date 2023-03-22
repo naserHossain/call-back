@@ -5,8 +5,8 @@ let sqrArr = arr.map((value) => {
     return value * value;
 });
 
-// console.log(arr);
-// console.log(sqrArr);
+console.log(arr);
+console.log(sqrArr);
 
 /**
  * Map implementation by raw js
